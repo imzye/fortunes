@@ -1,0 +1,2 @@
+# fortunes
+collections of fortunes
